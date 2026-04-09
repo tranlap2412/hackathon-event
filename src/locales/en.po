@@ -1,0 +1,974 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-22 14:37+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/view/landing/modals/submit-modal.tsx:140
+msgid "(Fill exactly as registration form, if already registered)"
+msgstr "(Fill exactly as registration form, if already registered)"
+
+#: src/view/landing/sections/timeline.tsx:13
+msgid "01/03"
+msgstr "01/03"
+
+#: src/view/landing/sections/timeline.tsx:83
+msgid "01/03 – 24/05"
+msgstr "01/03 – 24/05"
+
+#: src/view/landing/sections/timeline.tsx:42
+msgid "10/05"
+msgstr "10/05"
+
+#: src/view/landing/sections/timeline.tsx:35
+msgid "13/04 – 03/05"
+msgstr "13/04 – 03/05"
+
+#: src/view/landing/sections/timeline.tsx:21
+msgid "22/03"
+msgstr "22/03"
+
+#: src/view/landing/sections/timeline.tsx:28
+msgid "23/03 – 12/04"
+msgstr "23/03 – 12/04"
+
+#: src/view/landing/sections/timeline.tsx:49
+msgid "24/05"
+msgstr "24/05"
+
+#: src/view/landing/sections/about.tsx:28
+msgid "A multi-step form shows how a hackathon site can collect a team, a track, and a project link."
+msgstr "A multi-step form shows how a hackathon site can collect a team, a track, and a project link."
+
+#: src/components/layout/footer.tsx:30
+msgid "A personal portfolio demo of a hackathon event platform."
+msgstr "A personal portfolio demo of a hackathon event platform."
+
+#: src/view/landing/sections/hero.tsx:29
+msgid "A platform where developers, designers, and innovators collaborate to transform ideas into meaningful technology solutions."
+msgstr "A platform where developers, designers, and innovators collaborate to transform ideas into meaningful technology solutions."
+
+#: src/view/landing/sections/prizes.tsx:15
+msgid "A project submission form for repository and demo links."
+msgstr "A project submission form for repository and demo links."
+
+#: src/view/landing/sections/prizes.tsx:14
+msgid "A registration form with team and track validation."
+msgstr "A registration form with team and track validation."
+
+#: src/view/landing/sections/about.tsx:16
+msgid "A sample event space where developers and designers practice shipping an idea against a shared brief."
+msgstr "A sample event space where developers and designers practice shipping an idea against a shared brief."
+
+#: src/view/landing/sections/prizes.tsx:54
+msgid "A sample label for a brief taken in a direction of its own."
+msgstr "A sample label for a brief taken in a direction of its own."
+
+#: src/view/landing/sections/prizes.tsx:33
+msgid "A sample label for a project that explains the idea well."
+msgstr "A sample label for a project that explains the idea well."
+
+#: src/view/landing/sections/prizes.tsx:40
+msgid "A sample label for careful interaction and visual finish."
+msgstr "A sample label for careful interaction and visual finish."
+
+#: src/view/landing/sections/prizes.tsx:47
+msgid "A sample label for how a team splits design and engineering."
+msgstr "A sample label for how a team splits design and engineering."
+
+#: src/view/landing/sections/prizes.tsx:61
+msgid "A sample label for teams that document how the idea evolved."
+msgstr "A sample label for teams that document how the idea evolved."
+
+#: src/view/landing/sections/timeline.tsx:79
+msgid "A sample season for this portfolio demo. These dates are not a live event."
+msgstr "A sample season for this portfolio demo. These dates are not a live event."
+
+#: src/view/landing/sections/tracks.tsx:106
+msgid "a) Decentralized Exchange (DEX):"
+msgstr "a) Decentralized Exchange (DEX):"
+
+#: src/view/landing/sections/tracks.tsx:310
+msgid "a) Electronic KYC (eKYC):"
+msgstr "a) Electronic KYC (eKYC):"
+
+#: src/view/landing/sections/tracks.tsx:178
+msgid "a) Shared model training:"
+msgstr "a) Shared model training:"
+
+#: src/components/layout/footer.tsx:10
+#: src/components/layout/site-layout.tsx:32
+msgid "About"
+msgstr "About"
+
+#: src/view/landing/sections/about.tsx:50
+msgid "ABOUT"
+msgstr "ABOUT"
+
+#: src/view/landing/modals/register-modal.tsx:397
+msgid "Add member"
+msgstr "Add member"
+
+#: src/view/landing/modals/register-modal.tsx:155
+#: src/view/landing/modals/submit-modal.tsx:123
+#: src/view/landing/sections/tracks.tsx:165
+msgid "AI & IoT"
+msgstr "AI & IoT"
+
+#: src/view/landing/sections/tracks.tsx:112
+msgid "b) Cross-Chain Bridge:"
+msgstr "b) Cross-Chain Bridge:"
+
+#: src/view/landing/sections/tracks.tsx:184
+msgid "b) IoT Devices with AI & Blockchain:"
+msgstr "b) IoT Devices with AI & Blockchain:"
+
+#: src/view/landing/sections/tracks.tsx:316
+msgid "b) Security Tokenization:"
+msgstr "b) Security Tokenization:"
+
+#: src/view/landing/modals/register-modal.tsx:451
+#: src/view/landing/modals/submit-modal.tsx:352
+msgid "Back"
+msgstr "Back"
+
+#: src/view/landing/sections/tracks.tsx:180
+msgid "Build a decentralized AI training system, leveraging data from multiple sources (users, organizations) securely. Training results (model weights) can be stored on the blockchain to ensure authenticity and traceability."
+msgstr "Build a decentralized AI training system, leveraging data from multiple sources (users, organizations) securely. Training results (model weights) can be stored on the blockchain to ensure authenticity and traceability."
+
+#: src/view/landing/sections/tracks.tsx:94
+msgid "Build a DEX or Cross-Chain Bridge"
+msgstr "Build a DEX or Cross-Chain Bridge"
+
+#: src/view/landing/sections/tracks.tsx:359
+msgid "Build a portal or dashboard to manage and track issued Security Tokens."
+msgstr "Build a portal or dashboard to manage and track issued Security Tokens."
+
+#: src/view/landing/sections/tracks.tsx:282
+msgid "Build AI Oracles to provide reliable off-chain data for Smart Contracts, expanding blockchain applications."
+msgstr "Build AI Oracles to provide reliable off-chain data for Smart Contracts, expanding blockchain applications."
+
+#: src/components/layout/footer.tsx:48
+#: src/components/layout/preloader.tsx:147
+#: src/view/landing/sections/about.tsx:66
+#: src/view/landing/sections/hero.tsx:25
+msgid "Build Ideas Into Reality"
+msgstr "Build Ideas Into Reality"
+
+#: src/app/[lang]/layout.tsx:48
+#: src/app/[lang]/layout.tsx:74
+msgid "Build Ideas Into Reality. A demo platform where developers, designers, and innovators explore hackathon challenges."
+msgstr "Build Ideas Into Reality. A demo platform where developers, designers, and innovators explore hackathon challenges."
+
+#: src/view/landing/sections/prizes.tsx:57
+msgid "Build in public"
+msgstr "Build in public"
+
+#: src/view/landing/sections/timeline.tsx:36
+msgid "Build window"
+msgstr "Build window"
+
+#: src/view/landing/sections/about.tsx:21
+msgid "Challenge tracks"
+msgstr "Challenge tracks"
+
+#: src/view/landing/sections/tracks.tsx:102
+msgid "Choose one of these sample directions:"
+msgstr "Choose one of these sample directions:"
+
+#: src/view/landing/sections/prizes.tsx:32
+msgid "Clearest problem and demo"
+msgstr "Clearest problem and demo"
+
+#: src/view/landing/sections/prizes.tsx:43
+msgid "Collaboration"
+msgstr "Collaboration"
+
+#: src/view/landing/sections/tracks.tsx:564
+msgid "Collapse ▲"
+msgstr "Collapse ▲"
+
+#: src/view/landing/sections/tracks.tsx:174
+msgid "Combine a model and a sensor feed in one sample product. This track has two directions:"
+msgstr "Combine a model and a sensor feed in one sample product. This track has two directions:"
+
+#: src/view/landing/modals/register-modal.tsx:156
+#: src/view/landing/modals/submit-modal.tsx:124
+#: src/view/landing/sections/tracks.tsx:232
+msgid "Consensus Algorithm"
+msgstr "Consensus Algorithm"
+
+#: src/components/layout/footer.tsx:14
+#: src/components/layout/site-layout.tsx:37
+#: src/view/landing/sections/contact.tsx:37
+msgid "Contact"
+msgstr "Contact"
+
+#: src/view/landing/modals/register-modal.tsx:206
+msgid "Contact Info"
+msgstr "Contact Info"
+
+#: src/view/landing/sections/prizes.tsx:36
+msgid "Craft"
+msgstr "Craft"
+
+#: src/view/landing/modals/submit-modal.tsx:143
+msgid "Demo only. This form is not sent to a server."
+msgstr "Demo only. This form is not sent to a server."
+
+#: src/view/landing/modals/submit-modal.tsx:283
+msgid "Demo URL"
+msgstr "Demo URL"
+
+#: src/view/landing/sections/tracks.tsx:318
+msgid "Describe how a sample asset could be represented, transferred, and checked before it changes hands. Keep ownership easy to read in the interface."
+msgstr "Describe how a sample asset could be represented, transferred, and checked before it changes hands. Keep ownership easy to read in the interface."
+
+#: src/view/landing/sections/tracks.tsx:186
+msgid "Describe sensors that collect a reading, a model that flags an unusual value, and a record that shows the reading was not edited later."
+msgstr "Describe sensors that collect a reading, a model that flags an unusual value, and a record that shows the reading was not edited later."
+
+#: src/view/landing/sections/tracks.tsx:33
+#: src/view/landing/sections/tracks.tsx:98
+#: src/view/landing/sections/tracks.tsx:170
+#: src/view/landing/sections/tracks.tsx:237
+#: src/view/landing/sections/tracks.tsx:302
+msgid "Description:"
+msgstr "Description:"
+
+#: src/view/landing/sections/tracks.tsx:37
+msgid "Design a sample application that records where a product or asset has been, from origin to the person who receives it. The interface should make each step easy to check and hard to quietly rewrite."
+msgstr "Design a sample application that records where a product or asset has been, from origin to the person who receives it. The interface should make each step easy to check and hard to quietly rewrite."
+
+#: src/view/landing/sections/tracks.tsx:83
+msgid "Develop an intuitive and user-friendly UI/UX for both businesses and consumers."
+msgstr "Develop an intuitive and user-friendly UI/UX for both businesses and consumers."
+
+#: src/view/landing/sections/tracks.tsx:272
+msgid "Develop Machine Learning algorithms (e.g., Random Forest, Neural Networks) to predict trends or detect anomalous transactions on the blockchain."
+msgstr "Develop Machine Learning algorithms (e.g., Random Forest, Neural Networks) to predict trends or detect anomalous transactions on the blockchain."
+
+#: src/view/landing/modals/register-modal.tsx:154
+#: src/view/landing/modals/submit-modal.tsx:122
+#: src/view/landing/sections/tracks.tsx:93
+msgid "DEX & Bridge"
+msgstr "DEX & Bridge"
+
+#: src/view/landing/sections/contact.tsx:114
+msgid "Do not enter real personal data. Nothing is stored on a server."
+msgstr "Do not enter real personal data. Nothing is stored on a server."
+
+#: src/components/layout/preloader.tsx:138
+#: src/view/landing/sections/hero.tsx:17
+msgid "DREAMFORGE"
+msgstr "DREAMFORGE"
+
+#: src/app/[lang]/layout.tsx:46
+#: src/app/[lang]/layout.tsx:72
+msgid "DreamForge — Hackathon Event Platform"
+msgstr "DreamForge — Hackathon Event Platform"
+
+#: src/view/landing/sections/contact.tsx:109
+msgid "DreamForge has no public phone line, inbox, or social account. The form is a UI preview for this portfolio."
+msgstr "DreamForge has no public phone line, inbox, or social account. The form is a UI preview for this portfolio."
+
+#: src/view/landing/sections/about.tsx:60
+msgid "DreamForge is an independent portfolio project: a hackathon event platform for developers, designers, and people who enjoy building with technology."
+msgstr "DreamForge is an independent portfolio project: a hackathon event platform for developers, designers, and people who enjoy building with technology."
+
+#: src/view/landing/sections/tracks.tsx:298
+msgid "Electronic Identity Verification and Asset Tokenization"
+msgstr "Electronic Identity Verification and Asset Tokenization"
+
+#: src/view/landing/sections/contact.tsx:75
+msgid "Email"
+msgstr "Email"
+
+#: src/view/landing/modals/register-modal.tsx:107
+msgid "Email must be unique"
+msgstr "Email must be unique"
+
+#: src/view/landing/sections/tracks.tsx:108
+msgid "Enable users to trade tokens securely and transparently without intermediaries. The DEX must support features like token swapping, liquidity farming, and staking, while optimizing transaction costs and processing speed."
+msgstr "Enable users to trade tokens securely and transparently without intermediaries. The DEX must support features like token swapping, liquidity farming, and staking, while optimizing transaction costs and processing speed."
+
+#: src/components/layout/switcher.tsx:18
+msgid "English"
+msgstr "English"
+
+#: src/view/landing/sections/prizes.tsx:16
+msgid "English and Vietnamese interface."
+msgstr "English and Vietnamese interface."
+
+#: src/view/landing/sections/tracks.tsx:251
+msgid "Enhance real-time monitoring, data analysis, and anomaly detection in distributed systems."
+msgstr "Enhance real-time monitoring, data analysis, and anomaly detection in distributed systems."
+
+#: src/view/landing/sections/tracks.tsx:57
+msgid "Enhance user trust in products/assets through immutable data on the blockchain."
+msgstr "Enhance user trust in products/assets through immutable data on the blockchain."
+
+#: src/view/landing/sections/tracks.tsx:287
+msgid "Ensure algorithm transparency and verifiability by storing key parameters or results on the blockchain."
+msgstr "Ensure algorithm transparency and verifiability by storing key parameters or results on the blockchain."
+
+#: src/view/landing/sections/tracks.tsx:47
+msgid "Ensure the authenticity and transparency of product/asset information from origin to end consumer."
+msgstr "Ensure the authenticity and transparency of product/asset information from origin to end consumer."
+
+#: src/view/landing/modals/submit-modal.tsx:284
+msgid "Enter demo link"
+msgstr "Enter demo link"
+
+#: src/view/landing/modals/submit-modal.tsx:228
+msgid "Enter email"
+msgstr "Enter email"
+
+#: src/view/landing/modals/submit-modal.tsx:247
+msgid "Enter Google Docs link for self-assessment"
+msgstr "Enter Google Docs link for self-assessment"
+
+#: src/view/landing/modals/submit-modal.tsx:216
+msgid "Enter leader full name"
+msgstr "Enter leader full name"
+
+#: src/view/landing/modals/submit-modal.tsx:204
+msgid "Enter phone number"
+msgstr "Enter phone number"
+
+#: src/view/landing/modals/submit-modal.tsx:192
+msgid "Enter team name"
+msgstr "Enter team name"
+
+#: src/view/landing/sections/contact.tsx:77
+msgid "Enter your email"
+msgstr "Enter your email"
+
+#: src/view/landing/sections/contact.tsx:59
+msgid "Enter your full name"
+msgstr "Enter your full name"
+
+#: src/view/landing/sections/contact.tsx:70
+msgid "Enter your phone number"
+msgstr "Enter your phone number"
+
+#: src/view/landing/sections/contact.tsx:85
+msgid "Enter your question"
+msgstr "Enter your question"
+
+#: src/view/landing/sections/tracks.tsx:306
+msgid "Explore one of these two sample problems:"
+msgstr "Explore one of these two sample problems:"
+
+#: src/view/landing/modals/register-modal.tsx:241
+msgid "Faculty / Major"
+msgstr "Faculty / Major"
+
+#: src/view/landing/sections/prizes.tsx:24
+msgid "Featured demo"
+msgstr "Featured demo"
+
+#: src/view/landing/sections/prizes.tsx:29
+msgid "First look"
+msgstr "First look"
+
+#: src/view/landing/sections/about.tsx:22
+msgid "Five fictional tracks covering product, interface, and applied technology problems."
+msgstr "Five fictional tracks covering product, interface, and applied technology problems."
+
+#: src/view/landing/sections/tracks.tsx:129
+msgid "For a bridge: show how two networks could reference the same sample asset without a single shared operator."
+msgstr "For a bridge: show how two networks could reference the same sample asset without a single shared operator."
+
+#: src/view/landing/sections/tracks.tsx:217
+msgid "For AI Training: Apply Federated Learning for decentralized AI model training without centralizing raw data. Use Smart Contracts to manage data contributions and reward distribution."
+msgstr "For AI Training: Apply Federated Learning for decentralized AI model training without centralizing raw data. Use Smart Contracts to manage data contributions and reward distribution."
+
+#: src/view/landing/sections/tracks.tsx:196
+msgid "For AI Training: Protect user data privacy during AI training, encouraging fair and transparent data contributions from the community."
+msgstr "For AI Training: Protect user data privacy during AI training, encouraging fair and transparent data contributions from the community."
+
+#: src/view/landing/sections/tracks.tsx:150
+msgid "For Bridge: Use security mechanisms like Multi-signature, Timelock, or Oracles to verify cross-chain transactions. Ensure data integrity during transfers."
+msgstr "For Bridge: Use security mechanisms like Multi-signature, Timelock, or Oracles to verify cross-chain transactions. Ensure data integrity during transfers."
+
+#: src/view/landing/sections/tracks.tsx:145
+msgid "For DEX: Implement an Automated Market Maker (AMM) or Order Book model. Optimize Smart Contracts to reduce gas fees and improve transaction performance."
+msgstr "For DEX: Implement an Automated Market Maker (AMM) or Order Book model. Optimize Smart Contracts to reduce gas fees and improve transaction performance."
+
+#: src/view/landing/sections/tracks.tsx:124
+msgid "For DEX: Provide a decentralized trading platform, reducing centralization risks and enhancing user control over assets."
+msgstr "For DEX: Provide a decentralized trading platform, reducing centralization risks and enhancing user control over assets."
+
+#: src/view/landing/sections/tracks.tsx:328
+msgid "For eKYC: Provide a secure, efficient, and private identity verification method, reducing risks of data breaches and manual processes."
+msgstr "For eKYC: Provide a secure, efficient, and private identity verification method, reducing risks of data breaches and manual processes."
+
+#: src/view/landing/sections/tracks.tsx:349
+msgid "For eKYC: Use Zero-Knowledge Proofs (ZKP) to protect user privacy during identity verification. Build a user-friendly interface for uploading and managing information."
+msgstr "For eKYC: Use Zero-Knowledge Proofs (ZKP) to protect user privacy during identity verification. Build a user-friendly interface for uploading and managing information."
+
+#: src/view/landing/sections/tracks.tsx:201
+msgid "For IoT: Ensure the integrity and authenticity of data collected from IoT devices, preventing tampering or manipulation."
+msgstr "For IoT: Ensure the integrity and authenticity of data collected from IoT devices, preventing tampering or manipulation."
+
+#: src/view/landing/sections/tracks.tsx:222
+msgid "For sensors: sketch a small dashboard that shows the latest reading, who published it, and why a value was flagged."
+msgstr "For sensors: sketch a small dashboard that shows the latest reading, who published it, and why a value was flagged."
+
+#: src/view/landing/sections/tracks.tsx:333
+msgid "For Tokenization: Enhance financial inclusion for small investors, reduce transaction costs, and increase transparency in the digital asset market."
+msgstr "For Tokenization: Enhance financial inclusion for small investors, reduce transaction costs, and increase transparency in the digital asset market."
+
+#: src/view/landing/sections/tracks.tsx:354
+msgid "For tokenization: map issue, transfer, and redeem as three states a reviewer can inspect."
+msgstr "For tokenization: map issue, transfer, and redeem as three states a reviewer can inspect."
+
+#: src/view/landing/modals/register-modal.tsx:326
+msgid "Full name"
+msgstr "Full name"
+
+#: src/view/landing/sections/contact.tsx:55
+msgid "Full Name"
+msgstr "Full Name"
+
+#: src/view/landing/modals/submit-modal.tsx:71
+msgid "Github is required"
+msgstr "Github is required"
+
+#: src/view/landing/modals/submit-modal.tsx:259
+msgid "Github URL"
+msgstr "Github URL"
+
+#: src/view/landing/sections/hero.tsx:20
+msgid "HACKATHON"
+msgstr "HACKATHON"
+
+#: src/components/layout/footer.tsx:9
+#: src/components/layout/site-layout.tsx:31
+msgid "Home"
+msgstr "Home"
+
+#: src/view/landing/modals/register-modal.tsx:157
+#: src/view/landing/modals/submit-modal.tsx:125
+#: src/view/landing/sections/tracks.tsx:297
+msgid "Identity & Tokenization"
+msgstr "Identity & Tokenization"
+
+#: src/view/landing/sections/prizes.tsx:26
+msgid "Illustrative tier only. Nothing on this page has been awarded."
+msgstr "Illustrative tier only. Nothing on this page has been awarded."
+
+#: src/view/landing/sections/prizes.tsx:111
+msgid "Illustrative tiers for this demo. No cash, NFT, or certificate is offered."
+msgstr "Illustrative tiers for this demo. No cash, NFT, or certificate is offered."
+
+#: src/view/landing/sections/timeline.tsx:81
+msgid "Illustrative window:"
+msgstr "Illustrative window:"
+
+#: src/components/layout/footer.tsx:59
+msgid "Independent portfolio demo."
+msgstr "Independent portfolio demo."
+
+#: src/view/landing/sections/tracks.tsx:155
+msgid "Integrate popular crypto wallets and provide a user-friendly interface."
+msgstr "Integrate popular crypto wallets and provide a user-friendly interface."
+
+#: src/view/landing/sections/tracks.tsx:73
+msgid "Integrate QR codes or NFC for easy scanning and retrieval of product/asset origin information."
+msgstr "Integrate QR codes or NFC for easy scanning and retrieval of product/asset origin information."
+
+#: src/view/landing/sections/prizes.tsx:38
+msgid "Interface quality"
+msgstr "Interface quality"
+
+#: src/view/landing/modals/register-modal.tsx:75
+#: src/view/landing/modals/register-modal.tsx:93
+#: src/view/landing/modals/submit-modal.tsx:61
+msgid "Invalid email"
+msgstr "Invalid email"
+
+#: src/view/landing/modals/submit-modal.tsx:67
+#: src/view/landing/modals/submit-modal.tsx:70
+#: src/view/landing/modals/submit-modal.tsx:74
+#: src/view/landing/modals/submit-modal.tsx:78
+#: src/view/landing/modals/submit-modal.tsx:82
+#: src/view/landing/modals/submit-modal.tsx:86
+msgid "Invalid URL"
+msgstr "Invalid URL"
+
+#: src/view/landing/sections/register.tsx:40
+msgid "is a sample hackathon. Preview the registration and submission flows. Both stay in this browser."
+msgstr "is a sample hackathon. Preview the registration and submission flows. Both stay in this browser."
+
+#: src/view/landing/sections/prizes.tsx:17
+msgid "Layout that adapts from mobile to desktop."
+msgstr "Layout that adapts from mobile to desktop."
+
+#: src/view/landing/modals/register-modal.tsx:268
+#: src/view/landing/modals/submit-modal.tsx:215
+msgid "Leader full name"
+msgstr "Leader full name"
+
+#: src/view/landing/modals/register-modal.tsx:324
+msgid "Member"
+msgstr "Member"
+
+#: src/view/landing/modals/register-modal.tsx:252
+msgid "Mentor teacher (optional)"
+msgstr "Mentor teacher (optional)"
+
+#: src/view/landing/modals/register-modal.tsx:459
+#: src/view/landing/modals/submit-modal.tsx:360
+msgid "Next"
+msgstr "Next"
+
+#: src/components/layout/footer.tsx:51
+msgid "Not affiliated with Pione Dream, Pione Group, or any other organization."
+msgstr "Not affiliated with Pione Dream, Pione Group, or any other organization."
+
+#: src/view/landing/sections/timeline.tsx:148
+#: src/view/landing/sections/tracks.tsx:551
+msgid "Note:"
+msgstr "Note:"
+
+#: src/view/landing/sections/prizes.tsx:60
+msgid "Notes from the sample board"
+msgstr "Notes from the sample board"
+
+#: src/view/landing/sections/prizes.tsx:53
+msgid "One sample mention"
+msgstr "One sample mention"
+
+#: src/view/landing/sections/about.tsx:33
+msgid "Open to builders"
+msgstr "Open to builders"
+
+#: src/view/landing/sections/prizes.tsx:25
+msgid "Opening slot on the sample stage"
+msgstr "Opening slot on the sample stage"
+
+#: src/view/landing/sections/tracks.tsx:256
+msgid "Optimize blockchain performance and security by integrating AI into consensus mechanisms or network management."
+msgstr "Optimize blockchain performance and security by integrating AI into consensus mechanisms or network management."
+
+#: src/view/landing/sections/tracks.tsx:206
+msgid "Optimize resource and energy usage for both AI training and IoT device operations."
+msgstr "Optimize resource and energy usage for both AI training and IoT device operations."
+
+#: src/view/landing/sections/tracks.tsx:134
+msgid "Optimize transaction/transfer costs and speed for both DEX and Bridge."
+msgstr "Optimize transaction/transfer costs and speed for both DEX and Bridge."
+
+#: src/view/landing/modals/register-modal.tsx:153
+#: src/view/landing/modals/submit-modal.tsx:121
+#: src/view/landing/sections/tracks.tsx:28
+msgid "Origin Tracing DApp"
+msgstr "Origin Tracing DApp"
+
+#: src/view/landing/sections/prizes.tsx:50
+msgid "Original angle"
+msgstr "Original angle"
+
+#: src/view/landing/modals/submit-modal.tsx:295
+msgid "Other documents"
+msgstr "Other documents"
+
+#: src/view/landing/modals/register-modal.tsx:311
+msgid "Other Members"
+msgstr "Other Members"
+
+#: src/view/landing/sections/hero.tsx:47
+msgid "Personal portfolio demo"
+msgstr "Personal portfolio demo"
+
+#: src/view/landing/modals/register-modal.tsx:290
+#: src/view/landing/modals/register-modal.tsx:348
+#: src/view/landing/modals/submit-modal.tsx:203
+msgid "Phone number"
+msgstr "Phone number"
+
+#: src/view/landing/sections/contact.tsx:66
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: src/view/landing/modals/submit-modal.tsx:271
+msgid "Pitchdeck"
+msgstr "Pitchdeck"
+
+#: src/view/landing/modals/register-modal.tsx:76
+#: src/view/landing/modals/register-modal.tsx:94
+#: src/view/landing/modals/submit-modal.tsx:62
+msgid "Please enter email"
+msgstr "Please enter email"
+
+#: src/view/landing/modals/register-modal.tsx:65
+msgid "Please enter faculty/major"
+msgstr "Please enter faculty/major"
+
+#: src/view/landing/modals/register-modal.tsx:70
+#: src/view/landing/modals/submit-modal.tsx:58
+msgid "Please enter leader name"
+msgstr "Please enter leader name"
+
+#: src/view/landing/modals/register-modal.tsx:86
+msgid "Please enter member name"
+msgstr "Please enter member name"
+
+#: src/view/landing/modals/register-modal.tsx:72
+#: src/view/landing/modals/register-modal.tsx:90
+#: src/view/landing/modals/submit-modal.tsx:57
+msgid "Please enter phone number"
+msgstr "Please enter phone number"
+
+#: src/view/landing/modals/register-modal.tsx:71
+#: src/view/landing/modals/register-modal.tsx:89
+msgid "Please enter student code"
+msgstr "Please enter student code"
+
+#: src/view/landing/modals/register-modal.tsx:63
+#: src/view/landing/modals/submit-modal.tsx:56
+msgid "Please enter team name"
+msgstr "Please enter team name"
+
+#: src/view/landing/modals/register-modal.tsx:64
+msgid "Please enter university"
+msgstr "Please enter university"
+
+#: src/view/landing/modals/submit-modal.tsx:66
+msgid "Please select a track"
+msgstr "Please select a track"
+
+#: src/view/landing/modals/register-modal.tsx:80
+msgid "Please select at least one track"
+msgstr "Please select at least one track"
+
+#: src/view/landing/sections/tracks.tsx:261
+msgid "Predict trends, user behavior, or risks in supply chains and finance, enabling accurate and timely decisions."
+msgstr "Predict trends, user behavior, or risks in supply chains and finance, enabling accurate and timely decisions."
+
+#: src/view/landing/sections/tracks.tsx:52
+msgid "Prevent counterfeiting, fraud in supply chains, protecting consumer rights and business reputation."
+msgstr "Prevent counterfeiting, fraud in supply chains, protecting consumer rights and business reputation."
+
+#: src/view/landing/modals/register-modal.tsx:171
+msgid "Preview only. This form is not sent to a server."
+msgstr "Preview only. This form is not sent to a server."
+
+#: src/view/landing/sections/tracks.tsx:42
+#: src/view/landing/sections/tracks.tsx:119
+#: src/view/landing/sections/tracks.tsx:191
+#: src/view/landing/sections/tracks.tsx:246
+#: src/view/landing/sections/tracks.tsx:323
+msgid "Priority Social Issues:"
+msgstr "Priority Social Issues:"
+
+#: src/components/layout/footer.tsx:12
+#: src/components/layout/site-layout.tsx:34
+#: src/view/landing/sections/prizes.tsx:92
+msgid "Prizes"
+msgstr "Prizes"
+
+#: src/view/landing/sections/prizes.tsx:31
+msgid "Product narrative"
+msgstr "Product narrative"
+
+#: src/view/landing/modals/submit-modal.tsx:178
+msgid "Project Submission"
+msgstr "Project Submission"
+
+#: src/view/landing/sections/tracks.tsx:312
+msgid "Provide a decentralized, highly secure electronic identity verification solution, allowing users to verify personal information (ID card, passport) and store it as a hash on the blockchain, ensuring privacy and controlled data sharing."
+msgstr "Provide a decentralized, highly secure electronic identity verification solution, allowing users to verify personal information (ID card, passport) and store it as a hash on the blockchain, ensuring privacy and controlled data sharing."
+
+#: src/view/landing/sections/contact.tsx:83
+msgid "Question"
+msgstr "Question"
+
+#: src/view/landing/sections/tracks.tsx:564
+msgid "Read more ▼"
+msgstr "Read more ▼"
+
+#: src/view/landing/sections/tracks.tsx:68
+msgid "Record the main stages, such as production, transport, inspection, and handoff, in a way a reviewer can follow."
+msgstr "Record the main stages, such as production, transport, inspection, and handoff, in a way a reviewer can follow."
+
+#: src/components/layout/site-layout.tsx:36
+#: src/view/landing/modals/register-modal.tsx:454
+msgid "Register"
+msgstr "Register"
+
+#: src/view/landing/sections/register.tsx:28
+msgid "Register & Submit"
+msgstr "Register & Submit"
+
+#: src/view/landing/sections/hero.tsx:36
+#: src/view/landing/sections/register.tsx:49
+msgid "Register Now"
+msgstr "Register Now"
+
+#: src/view/landing/modals/register-modal.tsx:167
+msgid "Register to Join"
+msgstr "Register to Join"
+
+#: src/view/landing/sections/timeline.tsx:22
+msgid "Registration closes"
+msgstr "Registration closes"
+
+#: src/view/landing/sections/about.tsx:27
+msgid "Registration flow"
+msgstr "Registration flow"
+
+#: src/view/landing/modals/register-modal.tsx:375
+msgid "Remove"
+msgstr "Remove"
+
+#: src/view/landing/sections/tracks.tsx:241
+msgid "Research and develop advanced algorithms combining the power of Artificial Intelligence (AI) and Blockchain to address complex problems in various domains. The algorithm should leverage Machine Learning for data processing and analysis (on-chain/off-chain), while utilizing blockchain's transparency, security, and decentralization to enhance reliability and efficiency."
+msgstr "Research and develop advanced algorithms combining the power of Artificial Intelligence (AI) and Blockchain to address complex problems in various domains. The algorithm should leverage Machine Learning for data processing and analysis (on-chain/off-chain), while utilizing blockchain's transparency, security, and decentralization to enhance reliability and efficiency."
+
+#: src/view/landing/sections/tracks.tsx:277
+msgid "Research and optimize consensus mechanisms (e.g., Proof of Stake, Proof of Work) by integrating AI to improve performance and reduce energy consumption."
+msgstr "Research and optimize consensus mechanisms (e.g., Proof of Stake, Proof of Work) by integrating AI to improve performance and reduce energy consumption."
+
+#: src/view/landing/sections/tracks.tsx:233
+msgid "Research New Consensus Mechanisms"
+msgstr "Research New Consensus Mechanisms"
+
+#: src/view/landing/sections/tracks.tsx:509
+msgid "Rules"
+msgstr "Rules"
+
+#: src/view/landing/sections/prizes.tsx:13
+msgid "Sample briefs for each challenge track."
+msgstr "Sample briefs for each challenge track."
+
+#: src/view/landing/sections/timeline.tsx:44
+msgid "Sample checkpoint before the showcase"
+msgstr "Sample checkpoint before the showcase"
+
+#: src/view/landing/sections/timeline.tsx:51
+msgid "Sample day for demos on the recognition board"
+msgstr "Sample day for demos on the recognition board"
+
+#: src/view/landing/sections/timeline.tsx:23
+msgid "Sample deadline for team sign-up"
+msgstr "Sample deadline for team sign-up"
+
+#: src/view/landing/sections/timeline.tsx:37
+msgid "Sample period for project links"
+msgstr "Sample period for project links"
+
+#: src/view/landing/sections/tracks.tsx:518
+msgid ""
+"Sample projects should be original work by the team.\n"
+"You may reference public technical writing while shaping an idea, and you should respect copyright.\n"
+"This page is a portfolio demo. Using the form does not enter a live competition or transfer any rights.\n"
+"Challenge briefs and the sample schedule can change as the demo evolves."
+msgstr ""
+"Sample projects should be original work by the team.\n"
+"You may reference public technical writing while shaping an idea, and you should respect copyright.\n"
+"This page is a portfolio demo. Using the form does not enter a live competition or transfer any rights.\n"
+"Challenge briefs and the sample schedule can change as the demo evolves."
+
+#: src/view/landing/sections/prizes.tsx:107
+msgid "Sample recognition board"
+msgstr "Sample recognition board"
+
+#: src/view/landing/sections/timeline.tsx:15
+msgid "Sample registration window begins"
+msgstr "Sample registration window begins"
+
+#: src/view/landing/sections/timeline.tsx:30
+msgid "Sample sessions for the challenge briefs"
+msgstr "Sample sessions for the challenge briefs"
+
+#: src/view/landing/sections/timeline.tsx:14
+msgid "Season opens"
+msgstr "Season opens"
+
+#: src/view/landing/modals/submit-modal.tsx:325
+msgid "Select Track"
+msgstr "Select Track"
+
+#: src/view/landing/modals/register-modal.tsx:408
+msgid "Select Tracks"
+msgstr "Select Tracks"
+
+#: src/view/landing/sections/contact.tsx:89
+msgid "Send"
+msgstr "Send"
+
+#: src/view/landing/sections/contact.tsx:50
+msgid "Send us a message"
+msgstr "Send us a message"
+
+#: src/view/landing/sections/about.tsx:15
+msgid "Shared workshop"
+msgstr "Shared workshop"
+
+#: src/view/landing/sections/timeline.tsx:43
+msgid "Shortlist"
+msgstr "Shortlist"
+
+#: src/view/landing/sections/tracks.tsx:338
+msgid "Show consent clearly before any identity detail or asset record is shared."
+msgstr "Show consent clearly before any identity detail or asset record is shared."
+
+#: src/view/landing/sections/prizes.tsx:22
+#: src/view/landing/sections/timeline.tsx:50
+msgid "Showcase"
+msgstr "Showcase"
+
+#: src/view/landing/sections/tracks.tsx:114
+msgid "Sketch a bridge that moves a sample asset between two networks. Explain the checks that would keep a transfer from being accepted twice."
+msgstr "Sketch a bridge that moves a sample asset between two networks. Explain the checks that would keep a transfer from being accepted twice."
+
+#: src/view/landing/modals/register-modal.tsx:279
+#: src/view/landing/modals/register-modal.tsx:337
+msgid "Student ID"
+msgstr "Student ID"
+
+#: src/view/landing/modals/register-modal.tsx:99
+msgid "Student ID must be unique"
+msgstr "Student ID must be unique"
+
+#: src/view/landing/modals/submit-modal.tsx:355
+msgid "Submit"
+msgstr "Submit"
+
+#: src/view/landing/sections/hero.tsx:41
+#: src/view/landing/sections/register.tsx:56
+msgid "Submit Project"
+msgstr "Submit Project"
+
+#: src/view/landing/modals/submit-modal.tsx:135
+msgid "Submit Your Project"
+msgstr "Submit Your Project"
+
+#: src/view/landing/sections/tracks.tsx:63
+#: src/view/landing/sections/tracks.tsx:140
+#: src/view/landing/sections/tracks.tsx:212
+#: src/view/landing/sections/tracks.tsx:267
+#: src/view/landing/sections/tracks.tsx:344
+msgid "Suggestions:"
+msgstr "Suggestions:"
+
+#: src/view/landing/modals/register-modal.tsx:193
+#: src/view/landing/modals/submit-modal.tsx:165
+msgid "Team Info"
+msgstr "Team Info"
+
+#: src/view/landing/modals/register-modal.tsx:219
+#: src/view/landing/modals/submit-modal.tsx:191
+msgid "Team name"
+msgstr "Team name"
+
+#: src/view/landing/modals/submit-modal.tsx:245
+msgid "Team self-assessment"
+msgstr "Team self-assessment"
+
+#: src/view/landing/sections/prizes.tsx:45
+msgid "Team workflow"
+msgstr "Team workflow"
+
+#: src/view/landing/sections/timeline.tsx:150
+msgid "The dates above are placeholders so the timeline layout can be reviewed. They are not confirmed and no team will be notified."
+msgstr "The dates above are placeholders so the timeline layout can be reviewed. They are not confirmed and no team will be notified."
+
+#: src/view/landing/sections/about.tsx:63
+msgid "The sample event below shows how a landing page can present a slogan, challenge tracks, a schedule, and registration."
+msgstr "The sample event below shows how a landing page can present a slogan, challenge tracks, a schedule, and registration."
+
+#: src/view/landing/sections/tracks.tsx:523
+msgid "These challenge briefs are sample content for the DreamForge portfolio demo. They are not a live competition ruleset."
+msgstr "These challenge briefs are sample content for the DreamForge portfolio demo. They are not a live competition ruleset."
+
+#: src/view/landing/sections/contact.tsx:94
+msgid "This demo keeps the form on this page. The message is not delivered anywhere."
+msgstr "This demo keeps the form on this page. The message is not delivered anywhere."
+
+#: src/view/landing/sections/prizes.tsx:46
+msgid "Three sample mentions"
+msgstr "Three sample mentions"
+
+#: src/components/layout/footer.tsx:13
+#: src/components/layout/site-layout.tsx:35
+msgid "Timeline"
+msgstr "Timeline"
+
+#: src/view/landing/sections/timeline.tsx:70
+msgid "TIMELINE"
+msgstr "TIMELINE"
+
+#: src/view/landing/sections/tracks.tsx:29
+msgid "Trace a product from origin to the person who receives it"
+msgstr "Trace a product from origin to the person who receives it"
+
+#: src/components/layout/footer.tsx:11
+#: src/components/layout/site-layout.tsx:33
+msgid "Tracks"
+msgstr "Tracks"
+
+#: src/view/landing/sections/tracks.tsx:381
+msgid "TRACKS"
+msgstr "TRACKS"
+
+#: src/view/landing/sections/tracks.tsx:166
+msgid "Train AI or Develop IoT with Blockchain"
+msgstr "Train AI or Develop IoT with Blockchain"
+
+#: src/view/landing/sections/prizes.tsx:39
+msgid "Two sample mentions"
+msgstr "Two sample mentions"
+
+#: src/view/landing/sections/prizes.tsx:52
+msgid "Unexpected approach"
+msgstr "Unexpected approach"
+
+#: src/view/landing/modals/register-modal.tsx:230
+msgid "University"
+msgstr "University"
+
+#: src/view/landing/sections/tracks.tsx:78
+msgid "Use Oracles to reliably bring off-chain data (e.g., temperature, humidity, GPS location) onto the blockchain."
+msgstr "Use Oracles to reliably bring off-chain data (e.g., temperature, humidity, GPS location) onto the blockchain."
+
+#: src/view/landing/modals/submit-modal.tsx:307
+msgid "Video demo (YouTube)"
+msgstr "Video demo (YouTube)"
+
+#: src/components/layout/switcher.tsx:19
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#: src/view/landing/sections/tracks.tsx:415
+#: src/view/landing/sections/tracks.tsx:470
+msgid "View details"
+msgstr "View details"
+
+#: src/view/landing/sections/prizes.tsx:59
+msgid "Visible progress"
+msgstr "Visible progress"
+
+#: src/view/landing/sections/prizes.tsx:127
+msgid "What this demo includes"
+msgstr "What this demo includes"
+
+#: src/view/landing/sections/timeline.tsx:29
+msgid "Workshops"
+msgstr "Workshops"
+
+#: src/view/landing/sections/about.tsx:34
+msgid "Written for students and independent makers. This demo does not represent a sponsor, jury, or university."
+msgstr "Written for students and independent makers. This demo does not represent a sponsor, jury, or university."
